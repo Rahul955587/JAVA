@@ -4,6 +4,7 @@ public class Primeupton {
        Scanner sc=new Scanner(System.in);
        System.out.print("Enter The number:");
        int n=sc.nextInt();
+       sc.close();
        int sum=0;
        for(int i=1;i<=n;i++){
         int c=0;

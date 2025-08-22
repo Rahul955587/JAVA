@@ -10,6 +10,7 @@ public class simpleint {
         int t = sc.nextInt();
         float si=(p*r*t)/100;
         System.out.println("Simple Interest="+si);
+        sc.close();
     }
     
 }

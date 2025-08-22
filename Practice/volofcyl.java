@@ -8,6 +8,7 @@ public class volofcyl {
         float h= sc.nextFloat();
         double vol=3.14*r*r*h;
         System.out.println("Vol of Cyl= "+vol+" cm"+"cube");
+        sc.close();
     }
     
 }

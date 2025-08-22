@@ -4,6 +4,7 @@ public class Palindrome {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the Number:");
         int n=sc.nextInt();
+        sc.close();
         int m=n,r=0,s=0;
         while (m>0) {
             r=m%10;

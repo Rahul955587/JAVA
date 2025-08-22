@@ -12,6 +12,7 @@ public class SwapwithoutVa {
         a=a-b;  //5-3=2
         System.out.println(a);
         System.out.println(b);
+        sc.close();
     }
 }
 

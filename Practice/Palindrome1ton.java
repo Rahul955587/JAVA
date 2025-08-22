@@ -4,6 +4,7 @@ public class Palindrome1ton {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the Number:");
         int n=sc.nextInt();
+        sc.close();
         int j=0;
         for(int i=1;i<=n;i++){
         int m=i,r=0,s=0;

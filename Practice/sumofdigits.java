@@ -11,5 +11,6 @@ public class sumofdigits {
             m=m/10;
         }
         System.out.print(sum);
+        sc.close();
     }
 }

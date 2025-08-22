@@ -14,6 +14,7 @@ public class Armstrong1ton {
         if (s==i) {
             System.out.println(i);
         }
+        sc.close();
         }
     }
 }

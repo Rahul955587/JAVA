@@ -6,6 +6,6 @@ public class celsiustofah {
         float t=sc.nextFloat();
         float fah=(t*(9/5))+32;
         System.out.println("Fah Temp="+fah);
-
+        sc.close();
     }
 }

@@ -6,5 +6,6 @@ public class areaofcir {
         float r = sc.nextFloat();
         double a=(3.14*r*r);
         System.out.println("Area of Circle="+a);
+        sc.close();
     }
 }

@@ -9,5 +9,6 @@ public class Factorial {
             f=f*i;
         }
         System.out.println(f);
+        sc.close();
     }
 }

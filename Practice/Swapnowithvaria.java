@@ -12,6 +12,7 @@ public class Swapnowithvaria {
         b=c;
         System.out.println(a);
         System.out.println(b);
+        sc.close();
     }
 }
 
