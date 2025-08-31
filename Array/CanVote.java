@@ -1,4 +1,4 @@
-package Array;
+// package Array;
 import java.util.*;
 public class CanVote {
     public static void main(String[] args) {
