@@ -1,4 +1,3 @@
-package Array;
 import java.util.*;
 public class Storenum {
     public static void main(String[] args) {

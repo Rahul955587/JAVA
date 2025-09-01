@@ -1,0 +1,60 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "pattern10demo",
+            "request": "launch",
+            "mainClass": "pattern10demo",
+            "projectName": "JAVA_183c7258"
+        },
+        {
+            "type": "java",
+            "name": "Pattern7",
+            "request": "launch",
+            "mainClass": "Pattern7",
+            "projectName": "JAVA_183c7258"
+        },
+        {
+            "type": "java",
+            "name": "Pattern4",
+            "request": "launch",
+            "mainClass": "Pattern4",
+            "projectName": "JAVA_183c7258"
+        },
+        {
+            "type": "java",
+            "name": "Pattern3",
+            "request": "launch",
+            "mainClass": "Pattern3",
+            "projectName": "JAVA_183c7258"
+        },
+        {
+            "type": "java",
+            "name": "Searchindex",
+            "request": "launch",
+            "mainClass": "Searchindex",
+            "projectName": "JAVA_183c7258"
+        },
+        {
+            "type": "java",
+            "name": "Searching2D",
+            "request": "launch",
+            "mainClass": "Searching2D",
+            "projectName": "JAVA_183c7258"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
