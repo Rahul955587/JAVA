@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringBuild",
+            "request": "launch",
+            "mainClass": "String.StringBuild",
+            "projectName": "JAVA_183c7258"
+        },
+        {
+            "type": "java",
+            "name": "Reverse2",
+            "request": "launch",
+            "mainClass": "String.Reverse2",
+            "projectName": "JAVA_183c7258"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "String.Reverse",
+            "projectName": "JAVA_183c7258"
+        },
+        {
+            "type": "java",
             "name": "Matrixtranspose",
             "request": "launch",
             "mainClass": "Matrixtranspose",
